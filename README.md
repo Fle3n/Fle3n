@@ -23,6 +23,3 @@ I'm a **Kaggle Expert**, ML-engineer and Data Scientist. I actively compete in A
 ### 🔥 My stats :
 
 [![streak graph](https://streak-stats.demolab.com?user=Fle3n&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://git.io/streak-stats)
-
-[![stats graph](https://github-readme-stats.vercel.app/api?username=Fle3n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)](https://github.com/Fle3n)
-[![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=Fle3n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/Fle3n)
