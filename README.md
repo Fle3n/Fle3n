@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About me
 
-I'm a **Kaggle Expert**, ML-engineer and Data Scientist. I actively compete in AI & Data Science contests and turn messy data into winning solutions.
+I'm a **Kaggle Expert** (A second medal for CAFA 6 is coming soon.) , ML-engineer and Data Scientist. I actively compete in AI & Data Science contests and turn messy data into winning solutions.
 
 ### 🏆 My achievements
 
@@ -18,7 +18,7 @@ I'm a **Kaggle Expert**, ML-engineer and Data Scientist. I actively compete in A
 - 🥈 Digital Breakthrough (Цифровой прорыв), 2026 - Prize winner
 - 🏆 All-Russian Olympiad in Artificial Intelligence, 2025 - Finalist
 - 🏆 T1.GenAI (Т1.ГенИИ), 2025 - Finalist
-- 🌐 Kaggle - Expert tier
+- 🌐 Kaggle - Expert tier (Again, a second medal for CAFA 6 is coming soon.)
 
 ### 🔥 My stats :
 
