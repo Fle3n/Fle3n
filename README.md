@@ -88,6 +88,4 @@ I build Python applications and AI-powered solutions — from Telegram bots, web
 
 <div align="center">
 
-**Building, learning, and competing — one project at a time.**
-
 </div>
