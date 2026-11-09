@@ -14,6 +14,15 @@ I build Python applications and AI-powered solutions — from Telegram bots, web
 
 ---
 
+<!-- codef-project -->
+## codef
+
+Desktop AI app for local models, chat, and project work.
+
+[Website](https://codef.su/) · [Docs](https://github.com/Fle3n/codef-docs) · [CLI](https://github.com/Fle3n/codef-cli) · [Bug tracker](https://github.com/Fle3n/codef-bug-tracker)
+
+---
+
 ## 👨‍💻 About Me
 
 - 🧠 Exploring **AI, Data Science, Machine Learning, Deep Learning, Computer Vision, NLP, and LLMs**
