@@ -32,6 +32,7 @@ Desktop AI app for local models, chat, and project work.
 
 ## 🏆 Achievements
 
+- 🥉 **AI Journey Contest 2026 — Guardian of Truth:** 3rd place (team **Cole Palmer**), ₽400,000 prize (approx. US$4,846 before taxes). Built a detector for contextual hallucinations in LLM agent responses. F1: **0.60976** public, **0.63025** private. [Leaderboard](https://dsworks.ru/champ/aij26-guardian/leaderboard)
 - 🏅 **Kaggle Expert** — Competitions, Datasets & Notebooks
 - 🥇 **TASKILLS Web Dev 2025** — Winner
 - 🥇 **DataFusion Contest 2026** — Special Nomination Winner
